@@ -1,0 +1,68 @@
+[
+  {
+    "title": "My Updated Post",
+    "content": "My first updated post!\r\n\r\nThis is exciting!",
+    "user_id": 1
+  },
+  {
+    "title": "A Second Post",
+    "content": "This is a post from a different user...",
+    "user_id": 2
+  },
+  {
+    "title": "Top 5 Programming Lanaguages",
+    "content": "",
+    "user_id": 1
+  },
+  {
+    "title": "Sublime Text Tips and Tricks",
+    "content": "",
+    "user_id": 1
+  },
+  {
+    "title": "Best Python IDEs",
+    "content": "",
+    "user_id": 1
+  },
+
+  {
+    "title": "Just A Few More Healines Should Do It",
+    "content": "",
+    "user_id": 1
+  },
+  {
+    "title": "Music To Listen To While Coding",
+    "content": "",
+    "user_id": 1
+  },
+  {
+    "title": "5 Tips for Writing Catchy Headlines",
+    "content": "",
+    "user_id": 2
+  },
+  {
+    "title": "The Rise of Data Science",
+    "content": "",
+    "user_id": 2
+  },
+  {
+    "title": "Best Videos For Learning Python",
+    "content": "",
+    "user_id": 1
+  },
+  {
+    "title": "Top 10 Python Tips and Tricks",
+    "content": "",
+    "user_id": 1
+  },
+  {
+    "title": "Top 5 YouTube Channels For Learning Programming",
+    "content": "",
+    "user_id": 2
+  },
+  {
+    "title": "My Latest Updated Post",
+    "content": "",
+    "user_id": 1
+  }
+]
